@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-> [Healthcare analytics ML model predicting hospital billing amounts from patient demographics and clinical data]
+> [Healthcare analytics ML model predicting hospital billing amounts from patient information and clinical data]
 
 ![Project Banner](path/to/image.png)
 
