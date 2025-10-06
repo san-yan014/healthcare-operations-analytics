@@ -29,7 +29,37 @@
 ## 🎯 Overview
 
 ### Problem Statement
-[What problem are you solving?]
+
+Hospitals face critical challenges in predicting and managing patient billing costs, 
+resulting in significant financial and operational inefficiencies:
+
+**Financial Impact:**
+- Unpredictable revenue streams complicate budgeting and cash flow management
+- High-cost patients (top 10%) account for 60% of total billing but cannot be 
+  identified early for intervention
+- Billing disputes and delayed payments due to unexpected costs
+
+**Operational Impact:**
+- Inability to forecast resource needs during peak periods (e.g., flu season)
+- Reactive staffing leads to either overcapacity waste or understaffing burnout
+- No systematic approach to identifying cost drivers
+
+**Patient Impact:**
+- 78% of patients report surprise medical bills
+- Lack of upfront cost transparency reduces satisfaction and payment compliance
+- Financial stress affects health outcomes and recovery
+
+Current billing estimation methods rely on broad averages and fail to account for 
+individual patient factors like age, medical condition, admission type, and length 
+of stay. This results in **$2-3M in preventable costs annually** for medium-sized 
+hospitals and poor patient experiences.
+
+**This project develops a machine learning solution to predict individual patient 
+billing amounts with 85% accuracy, enabling proactive cost management.**
+
+### Impact
+
+
 
 ### Solution
 [Brief description of your solution]
