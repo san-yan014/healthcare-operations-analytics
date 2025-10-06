@@ -54,9 +54,6 @@ individual patient factors like age, medical condition, admission type, and leng
 of stay. This results in **$2-3M in preventable costs annually** for medium-sized 
 hospitals and poor patient experiences.
 
-**This project develops a machine learning solution to predict individual patient 
-billing amounts with 85% accuracy, enabling proactive cost management.**
-
 ### Impact
 
 
